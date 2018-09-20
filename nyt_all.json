@@ -1,0 +1,36 @@
+{
+    "base_url" : "https://api.nytimes.com/svc/topstories/v2/",
+    "sections": ["home"
+                ,"opinion"
+                ,"world"
+                ,"national"
+                ,"politics"
+                ,"upshot"
+                ,"nyregion"
+                ,"business"
+                ,"technology"
+                ,"science"
+                ,"health"
+                ,"sports"
+                ,"arts"
+                ,"books"
+                ,"movies"
+                ,"theater"
+                ,"sundayreview"
+                ,"fashion"
+                ,"tmagazine"
+                ,"food"
+                ,"travel"
+                ,"magazine"
+                ,"realestate"
+                ,"automobiles"
+                ,"obituaries"
+                ,"insider"],
+    "extension" : ["json", "jsonp"],
+    "interest" : ["world", "national", "politics", "business", "technology", "science",
+    "books","insider"],
+    "APIKey" : {
+        "top-stories" : "ee94c48809ea4f50851fb2bd8fe87f1f",
+        "search": "ee94c48809ea4f50851fb2bd8fe87f1f"
+    }
+}

@@ -1,0 +1,53 @@
+HTTP Header:
+Accept-Ranges: bytes
+Access-Control-Allow-Credentials: false
+Access-Control-Allow-Headers: *
+Access-Control-Allow-Methods: GET
+Access-Control-Allow-Origin: *
+Access-Control-Max-Age: 86400
+Age: 0
+Cache-Control: max-age=60
+Content-Type: application/json
+Date: Tue, 21 Nov 2017 16:22:25 GMT
+ETag: "180887a0b88150e8cfcdcad2607b1fd2"
+Expires: Tue, 21 Nov 2017 16:18:18 GMT
+Last-Modified: Tue, 21 Nov 2017 16:17:19 GMT
+Server: AmazonS3
+Vary: Origin, Access-Control-Request-Headers, Access-Control-Request-Method, Accept-Encoding
+Via: kong/0.9.5
+x-amz-id-2: LzoBqI2lD35wvA0mdbalaKkY/GAUItKLQ4RxSx25FBYdTahCsfi3Vhb6TT2PqoSKfJhpHbbGYN4=
+x-amz-request-id: 9ED76974E55E91EC
+X-Cache: HIT
+X-Cache-Hits: 1
+X-Kong-Proxy-Latency: 35
+X-Kong-Upstream-Latency: 56
+X-RateLimit-Limit-day: 1000
+X-RateLimit-Limit-second: 5
+X-RateLimit-Remaining-day: 984
+X-RateLimit-Remaining-second: 4
+X-Served-By: cache-iad2620-IAD
+X-Timer: S1511281345.222600,VS0,VE46
+Content-Length: 100871
+Connection: Close
+
+
+====================>CONTENT
+SUCCESS LOADING JSON FILE
+Key ==> updated_date: 2017-11-21T11:07:07-05:00
+Key ==> kicker: 
+Key ==> subsection: Africa
+Key ==> org_facet: ['Zimbabwe African National Union-Patriotic Front (ZANU-PF)']
+Key ==> multimedia: [{'format': 'Standard Thumbnail', 'copyright': 'Kim Ludbrook/European Pressphoto Agency', 'width': 75, 'url': 'https://static01.nyt.com/images/2017/11/22/world/22zimbabwe3/22zimbabwe3-thumbStandard.jpg', 'caption': 'People gathered at an opposition party rally on Tuesday in Harare, Zimbabwe, as the country’s Parliament began impeachment proceedings against President Robert Mugabe.', 'subtype': 'photo', 'type': 'image', 'height': 75}, {'format': 'thumbLarge', 'copyright': 'Kim Ludbrook/European Pressphoto Agency', 'width': 150, 'url': 'https://static01.nyt.com/images/2017/11/22/world/22zimbabwe3/22zimbabwe3-thumbLarge.jpg', 'caption': 'People gathered at an opposition party rally on Tuesday in Harare, Zimbabwe, as the country’s Parliament began impeachment proceedings against President Robert Mugabe.', 'subtype': 'photo', 'type': 'image', 'height': 150}, {'format': 'Normal', 'copyright': 'Kim Ludbrook/European Pressphoto Agency', 'width': 190, 'url': 'https://static01.nyt.com/images/2017/11/22/world/22zimbabwe3/22zimbabwe3-articleInline.jpg', 'caption': 'People gathered at an opposition party rally on Tuesday in Harare, Zimbabwe, as the country’s Parliament began impeachment proceedings against President Robert Mugabe.', 'subtype': 'photo', 'type': 'image', 'height': 127}, {'format': 'mediumThreeByTwo210', 'copyright': 'Kim Ludbrook/European Pressphoto Agency', 'width': 210, 'url': 'https://static01.nyt.com/images/2017/11/22/world/22zimbabwe3/22zimbabwe3-mediumThreeByTwo210.jpg', 'caption': 'People gathered at an opposition party rally on Tuesday in Harare, Zimbabwe, as the country’s Parliament began impeachment proceedings against President Robert Mugabe.', 'subtype': 'photo', 'type': 'image', 'height': 140}, {'format': 'superJumbo', 'copyright': 'Kim Ludbrook/European Pressphoto Agency', 'width': 2048, 'url': 'https://static01.nyt.com/images/2017/11/22/world/22zimbabwe3/22zimbabwe3-superJumbo.jpg', 'caption': 'People gathered at an opposition party rally on Tuesday in Harare, Zimbabwe, as the country’s Parliament began impeachment proceedings against President Robert Mugabe.', 'subtype': 'photo', 'type': 'image', 'height': 1365}]
+Key ==> abstract: It seemed to be an abrupt capitulation by Mr. Mugabe, who had refused to step down only two days earlier.
+Key ==> material_type_facet: 
+Key ==> url: https://www.nytimes.com/2017/11/21/world/africa/zimbabwe-mugabe-mnangagwa.html
+Key ==> des_facet: ['Politics and Government', 'Appointments and Executive Changes', 'Legislatures and Parliaments', 'Impeachment', 'Human Rights and Human Rights Violations']
+Key ==> created_date: 2017-11-21T08:34:00-05:00
+Key ==> published_date: 2017-11-21T08:34:00-05:00
+Key ==> geo_facet: ['Zimbabwe']
+Key ==> section: World
+Key ==> short_url: https://nyti.ms/2hQJCFh
+Key ==> per_facet: ['Mnangagwa, Emmerson', 'Mugabe, Robert']
+Key ==> item_type: Article
+Key ==> byline: By NORIMITSU ONISHI and JEFFREY MOYO
+Key ==> title: Robert Mugabe Resigns as Zimbabwe’s President, Ending 37-Year Rule
