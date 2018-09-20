@@ -2,3 +2,5 @@
 /.svn
 /cnn_parsing.py
 /newsfeed_keys.json
+/__pycache__
+/test
